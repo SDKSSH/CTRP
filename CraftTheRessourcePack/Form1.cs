@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CraftTheRessourcePack
 {
-    public partial class Form1 : Form
+    public partial class CraftMyRessourcePack : Form
     {
-        public Form1()
+        public CraftMyRessourcePack()
         {
             InitializeComponent();
         }
